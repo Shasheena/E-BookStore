@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "quicksand";
+    src: url("resources/Quicksand-Medium.ttf");
+}
+
+* {
+    font-family: "quicksand";
+    font-weight: bold;
+   
+}
+.adminSignup{
+    background-image: url("resources/admin_sign_up_background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.adminHome{
+    background-image: url("resources/admin_sign_up_background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.chatImg1{
+    background-image: url("resources/chat_img_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.chatImg2{
+    background-image: url("resources/chat_img_2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
